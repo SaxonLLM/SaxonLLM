@@ -6,7 +6,7 @@ SaxonLLM is an experimental language model focused on understanding and generati
 
 You can try out the model's capabilities in the demo below. It is only a representative sample of models output for a selected few prompts. The prompts are related to the task specified in the project objectives:
 
-- **Story Task**:Write a short story about two Saxons in the Deutsche Bahn.
+- **Story Task**: Write a short story about two Saxons in the Deutsche Bahn.
 - **Translation Task**: Translate the given text into Sächsisch.
 - **History Task**: What is the history of TU Dresden?
 - **Saying Hello**: How do you say 'Good Morning' in Sächsisch?
