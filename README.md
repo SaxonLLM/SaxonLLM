@@ -11,7 +11,7 @@ You can try out the model's capabilities in the demo below. It is only a represe
 - **History Task**: What is the history of TU Dresden?
 - **Saying Hello**: How do you say 'Good Morning' in Sächsisch?
 
-Try the demo here: [SaxonLLM Live Demo](https://deployment-e4xx.onrender.com/)
+Try the demo here: [SaxonLLM Demo](https://deployment-e4xx.onrender.com/)
 
 ## Installation
 
